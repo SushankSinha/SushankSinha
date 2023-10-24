@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+[<!--
 **SushankSinha/SushankSinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->](https://github-readme-stats.vercel.app/api?username=SushankSinha&theme=synthwave&show_icons=true&count_private=true%20%E2%80%9CSushank%E2%80%99%20GutHub%20Stats)https://github-readme-stats.vercel.app/api?username=SushankSinha&theme=synthwave&show_icons=true&count_private=true%20%E2%80%9CSushank%E2%80%99%20GutHub%20Stats
